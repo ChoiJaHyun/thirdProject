@@ -20,7 +20,7 @@ h1{
 .five{
     background-color: rgb(240, 240, 171);
     margin-left: 10px;
-    align-item:center;
+    align-items:center;
     text-align:center;
 
 }
